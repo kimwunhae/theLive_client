@@ -114,4 +114,4 @@
 
 
 <br/><br/>
-**Checkout [wiki](https://github.com/codestates/the-live-client/wiki) for more**
+**Checkout [wiki](https://github.com/kimwunhae/theLive_client/wiki) for more**
